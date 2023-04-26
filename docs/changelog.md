@@ -8,10 +8,3 @@
 
 - Initial release
 
-**Improvement**:
-
--   TBD
-
-**New Features**:
-
--   TBD
